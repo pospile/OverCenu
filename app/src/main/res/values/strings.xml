@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OverCenu</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="low_storage_error">V telefonu dochází pamět.</string>
+</resources>

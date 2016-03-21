@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/scan"
+        android:icon="@drawable/ic_barcode"
+        android:title="Skenovat" />
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search"
+        android:title="Hledat"/>
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/ic_shopping_cart"
+        android:title="Košík"/>
+</menu>
